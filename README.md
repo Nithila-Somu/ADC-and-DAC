@@ -23,7 +23,6 @@ Design the circuit in Proteus using DAC0808 with:
 •	Op-Amp for current to voltage conversion
 •	Output connected to voltmeter
 
-
 ## Procedure
 1.	Open Proteus software.
 2.	Select components:
