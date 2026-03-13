@@ -22,6 +22,7 @@ Design the circuit in Proteus using DAC0808 with:
 •	8 digital switches for binary input
 •	Op-Amp for current to voltage conversion
 •	Output connected to voltmeter
+<img width="1075" height="746" alt="Screenshot 2026-03-10 134707" src="https://github.com/user-attachments/assets/b8fbfc2b-0e34-4da8-a385-57f8d7968d2f" />
 
 ## Procedure
 1.	Open Proteus software.
@@ -37,6 +38,8 @@ o	Digital switches
 7.	Change digital input combinations and observe the output voltage.
 
 ## Tabulation
+<img width="961" height="730" alt="image" src="https://github.com/user-attachments/assets/5d24ca9b-664c-4721-a9d0-7b11a061faff" />
+
 ## Result
 The Digital to Analog Converter circuit was successfully designed and simulated in Proteus, and the digital input was converted into corresponding analog voltage.
 
